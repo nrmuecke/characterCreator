@@ -19,7 +19,7 @@ const Wizard = () => {
         className="mb-10 mt-10 bg-blue-600 w-56 h-24 flex items-center justify-center mx-auto rounded-full border-[2px]"
         onPress={() => router.push("/")}
       >
-        <Text className="text-white">Go to Home</Text>
+        <Text className="text-white">Home</Text>
       </Pressable>
     </View>
   );
